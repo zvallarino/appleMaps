@@ -18,6 +18,9 @@ const data = [{
 const NavOptions = () => {
   const navigation = useNavigation();
 
+  //I gotta center the items at some points
+  
+
   return (
     <FlatList
     data={data}
